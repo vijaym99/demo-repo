@@ -2,4 +2,4 @@
 
 This is my first repo.
 <br>
-Author- Vijay Mahagan.
+Author- Vijay Mahagaon.
